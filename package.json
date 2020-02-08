@@ -1,0 +1,21 @@
+{
+    "name": "cra-template-simplified",
+    "version": "0.1.0",
+    "keywords": [
+      "react",
+      "create-react-app",
+      "template"
+    ],
+    "description": "The simplified template for Create React App.",
+    "author": "gaojinwei",
+    "main": "template.json",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/gaojinwei/cra-template-simplified.git",
+      "directory": "packages/cra-template"
+    },
+    "license": "MIT",
+    "engines": {
+      "node": ">=8"
+    }
+  }
